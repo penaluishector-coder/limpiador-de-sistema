@@ -1,0 +1,8 @@
+{
+  "name": "Remix DroidPulse — Optimizador y Limpiador de Sistema Android",
+  "description": "Suite inteligente de limpieza de almacenamiento, liberación de RAM, optimización automática de batería y análisis de almacenamiento local para dispositivos Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
